@@ -680,6 +680,8 @@ img {
 
   .navbar a {
     color: var(--text-main);
+        width: 100%;
+
   }
 
   .mobile-nav-cta {
